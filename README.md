@@ -1,4 +1,4 @@
-# HackThisFall-Petcare
+# Petcare
 
 **Team**
 Botarmy
